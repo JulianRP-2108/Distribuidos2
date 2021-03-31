@@ -14,7 +14,7 @@ public class HolaMundo extends UnicastRemoteObject implements HolaMundoRemoto{
     }
 
     public String nombre;
-
+    @Override
     public String saludar(String nombre) throws RemoteException {
         return "Hola "+nombre+"!!";
     }
