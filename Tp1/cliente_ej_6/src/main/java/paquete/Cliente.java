@@ -32,7 +32,5 @@ public class Cliente {
             System.out.println("Ocurrio un error: ");
             System.out.println(e);
         }
-        
-
     }
 }
