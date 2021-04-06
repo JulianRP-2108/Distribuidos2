@@ -126,7 +126,7 @@ public class Mensajeria  extends UnicastRemoteObject  implements MensajeriaRemot
                   
    
                  default : 
-                      this.respuestaServidor="no entiendo soy un bot tercermundista :(";
+                      this.respuestaServidor="no entien";
                 }
               }
               
